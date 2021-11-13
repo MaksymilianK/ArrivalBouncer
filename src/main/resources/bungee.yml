@@ -1,0 +1,4 @@
+name: ArrivalBouncer
+main: com.github.maksymiliank.arrivalbouncer.ArrivalBouncer
+version: 1.0
+author: Thonem
